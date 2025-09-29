@@ -6,3 +6,4 @@ export var SearchDocumentType;
     SearchDocumentType[SearchDocumentType["Keywords"] = 3] = "Keywords";
     SearchDocumentType[SearchDocumentType["Content"] = 4] = "Content";
 })(SearchDocumentType || (SearchDocumentType = {}));
+ 
